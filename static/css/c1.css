@@ -1,0 +1,5 @@
+body{
+    color:rgb(228, 220, 216);
+    background-color: rgb(221, 103, 166);
+    background: url('{% static 'images/3.jpg' %}');
+}
